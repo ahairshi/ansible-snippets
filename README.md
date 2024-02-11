@@ -32,7 +32,7 @@
 ## Verbosity Skipped
 <img width="1440" alt="image" src="https://github.com/ahairshi/ansible-snippets/assets/1314201/ab35cfa5-6993-46bc-b14b-7fcdd091a0dd">
 
-## Verbosity not skipper
+## Verbosity not skipped
 
 <img width="1440" alt="image" src="https://github.com/ahairshi/ansible-snippets/assets/1314201/3fb38e53-9f8c-4d23-a02a-2a5725c48973">
 
