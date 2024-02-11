@@ -75,6 +75,6 @@
 In Ansible, breaking a string over multiple lines is accomplished using two main operators:
 
 * | (Literal Block Scalar): This operator instructs Ansible to treat the string as a literal block scalar, preserving the newlines within the string.
-* > (Folded Block Scalar): This operator tells Ansible to treat the string as a folded block scalar, collapsing all newlines into a single space.
+* \> (Folded Block Scalar): This operator tells Ansible to treat the string as a folded block scalar, collapsing all newlines into a single space.
 
 
