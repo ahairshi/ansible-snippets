@@ -193,3 +193,6 @@ https://ansiblepilot.medium.com/filter-a-list-by-its-attributes-ansible-selectat
 
 ## Using Date, Time and Timestamp in Ansible Playbook - Ansible Tip and Tricks
 https://www.ansiblepilot.com/articles/using-date-time-and-timestamp-in-ansible-playbook-ansible-tip-and-tricks/
+
+## Using Date, Time and Timestamp without Facts in Ansible Playbook - Ansible date and lookup plugin
+https://www.ansiblepilot.com/articles/using-date-time-and-timestamp-without-facts-in-ansible-playbook-ansible-date-and-lookup-plugin/
