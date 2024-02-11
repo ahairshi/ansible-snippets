@@ -196,3 +196,5 @@ https://www.ansiblepilot.com/articles/using-date-time-and-timestamp-in-ansible-p
 
 ## Using Date, Time and Timestamp without Facts in Ansible Playbook - Ansible date and lookup plugin
 https://www.ansiblepilot.com/articles/using-date-time-and-timestamp-without-facts-in-ansible-playbook-ansible-date-and-lookup-plugin/
+
+https://ansiblepilot.medium.com/using-date-time-and-timestamp-in-ansible-playbook-ansible-tip-and-tricks-5ee6cb3d6310
