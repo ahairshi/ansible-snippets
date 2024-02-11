@@ -176,8 +176,17 @@ https://ansiblepilot.medium.com/three-options-to-safely-limit-ansible-playbooks-
 
 ## Ansible modules - command vs shell
 
-https://www.ansiblepilot.com/articles/ansible-modules-command-vs-shell/ ** to be watched again**
+https://www.ansiblepilot.com/articles/ansible-modules-command-vs-shell/ **to be watched again**
 
 ## Write a Variable to File — Ansible module copy vs template
 https://ansiblepilot.medium.com/write-a-variable-to-file-ansible-module-copy-vs-template-2ef51c67ebdc
 
+## How to Run Only One Task in Ansible Playbook? — Ansible tags statement
+
+https://ansiblepilot.medium.com/how-to-run-only-one-task-in-ansible-playbook-ansible-tags-statement-1c5d007370bb
+
+## Filter A List By Its Attributes — Ansible selectattr filter
+
+https://www.educative.io/answers/how-to-filter-a-list-by-its-attributes-in-ansible
+
+https://ansiblepilot.medium.com/filter-a-list-by-its-attributes-ansible-selectattr-filter-66881fe8a825
