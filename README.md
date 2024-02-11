@@ -190,3 +190,6 @@ https://ansiblepilot.medium.com/how-to-run-only-one-task-in-ansible-playbook-ans
 https://www.educative.io/answers/how-to-filter-a-list-by-its-attributes-in-ansible
 
 https://ansiblepilot.medium.com/filter-a-list-by-its-attributes-ansible-selectattr-filter-66881fe8a825
+
+## Using Date, Time and Timestamp in Ansible Playbook - Ansible Tip and Tricks
+https://www.ansiblepilot.com/articles/using-date-time-and-timestamp-in-ansible-playbook-ansible-tip-and-tricks/
